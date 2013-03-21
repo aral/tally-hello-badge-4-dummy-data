@@ -26,7 +26,7 @@ You can also use data that tests edge cases e.g., word‐wrapping on very long n
 The template
 ---
 
-We’ve modified our template to add dummy data for users to help us style the speaker notice and the perforations and scissors icon between badges without requiring access to the rendered output.
+We’ve modified the template to add dummy data for users to help us style the speaker notice and the perforations and scissors icon between badges without requiring access to the rendered output.
 
 ```html
 	<ul>
