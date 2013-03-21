@@ -3,7 +3,7 @@
 Tally Hello Badge Example: Dummy Data (part 4 of 4)
 ===
 
-In the previous installments, we used the [Tally template engine](http://tally.jit.su) ([fork Tally on GitHub](https://github.com/aral/tally)) to create a sheet of name badges for attendees and speakers. We covered how to set the text and attributes of elements, how to repeat elements, and how to conditionally display elements.
+In the previous instalments, we used the [Tally template engine](http://tally.jit.su) ([fork Tally on GitHub](https://github.com/aral/tally)) to create a sheet of name badges for attendees and speakers. We covered how to set the text and attributes of elements, how to repeat elements, and how to conditionally display elements.
 
 In this, the final example in the series, we’re going to add some dummy data to our template so that it contains all the elements present in the rendered output. This will allow us to style the template even if we don’t have access to the server.
 
