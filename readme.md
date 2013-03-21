@@ -66,7 +66,7 @@ Nothing has changed on the server.
 
 That’s it!
 
-You can use your templates to evolve your design and stylesheets in parallel with the evolution of the server.
+Tally empowers you to design in the browser using pure HTML 5 templates. Evolve your design and stylesheets independently of the server and in parallel with the development work taking place on back‐end.
 
 And that brings us to the end of our introductory four‐part series.
 
