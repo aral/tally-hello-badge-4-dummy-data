@@ -29,32 +29,32 @@ The template
 We’ve modified the template to add dummy data for users to help us style the speaker notice and the perforations and scissors icon between badges without requiring access to the rendered output.
 
 ```html
-	<ul>
-		<li data-tally-repeat='person people'>
-			<a data-tally-attribute='href person.homepage'>
-				<p>
-					Hello, my name is <span data-tally-text='person.name'>Inigo Montoya</span>
-					<span data-tally-if='person.isSpeaker'>Speaker</span>
-				</p>
-			</a>
-		</li>
-		<li data-tally-dummy>
-			<a data-tally-attribute='href person.homepage'>
-				<p>
-					Hello, my name is <span data-tally-text='person.name'>Sarah</span>
-					<span data-tally-if='person.isSpeaker' style='display:none'>Speaker</span>
-				</p>
-			</a>
-		</li>
-		<li data-tally-dummy>
-			<a data-tally-attribute='href person.homepage'>
-				<p>
-					Hello, my name is <span data-tally-text='person.name'>Joe</span>
-					<span data-tally-if='person.isSpeaker'>Speaker</span>
-				</p>
-			</a>
-		</li>
-	</ul>
+<ul>
+	<li data-tally-repeat='person people'>
+		<a data-tally-attribute='href person.homepage'>
+			<p>
+				Hello, my name is <span data-tally-text='person.name'>Inigo Montoya</span>
+				<span data-tally-if='person.isSpeaker'>Speaker</span>
+			</p>
+		</a>
+	</li>
+	<li data-tally-dummy>
+		<a data-tally-attribute='href person.homepage'>
+			<p>
+				Hello, my name is <span data-tally-text='person.name'>Sarah</span>
+				<span data-tally-if='person.isSpeaker' style='display:none'>Speaker</span>
+			</p>
+		</a>
+	</li>
+	<li data-tally-dummy>
+		<a data-tally-attribute='href person.homepage'>
+			<p>
+				Hello, my name is <span data-tally-text='person.name'>Joe</span>
+				<span data-tally-if='person.isSpeaker'>Speaker</span>
+			</p>
+		</a>
+	</li>
+</ul>
 ```
 
 You can see the updated template by visiting ```http://localhost:3000/hello-badge.html``` after you run the server for this example.
