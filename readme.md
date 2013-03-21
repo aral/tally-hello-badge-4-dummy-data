@@ -68,6 +68,9 @@ That’s it!
 
 You can use your templates to evolve your design and stylesheets in parallel with the evolution of the server.
 
+Continue learning about Tally on [the Tally web site](http://tally.jit.su) and [fork Tally on GitHub](https://github.com/aral/tally) to give it a spin.
+
+
 Table of Contents
 ---
 
