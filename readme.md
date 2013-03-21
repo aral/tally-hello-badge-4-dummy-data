@@ -1,4 +1,4 @@
-<img src='http://aralbalkan.com/images/tally-hello-badge-4-dummy-data.png'>
+<img src='http://aralbalkan.com/images/tally-hello-badge-4-dummy-data-v2.png'>
 
 Tally Hello Badge Example: Dummy Data (part 4 of 4)
 ===
