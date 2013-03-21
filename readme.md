@@ -74,6 +74,6 @@ Table of Contents
 * Part 1: [Text and Attribute](https://github.com/aral/tally-hello-badge-1-text-and-attribute)
 * Part 2: [Repetition](https://github.com/aral/tally-hello-badge-2-repetition)
 * Part 3: [Conditionals](https://github.com/aral/tally-hello-badge-3-conditionals)
-* Part 4: [Dummy Data](https://github.com/aral/tally-hello-badge-4-dummy-data)
+* Part 4: Dummy Data
 
 This is just a very simple example. [Check out the Tally web site](http://tally.jit.su) for more complicated ones.
